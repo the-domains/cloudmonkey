@@ -1,0 +1,23 @@
+name: Cloudmonkey
+favicon: null
+layout_spectrum: 0.8370320892427117
+typography_spectrum: 0.11587548279203475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7155877740588039
+  lightness: 0.5586481667123735
+  saturation: 0.30136838532052934
+  rhythmicContrast: 0.11923598404973745
+purpose: []
